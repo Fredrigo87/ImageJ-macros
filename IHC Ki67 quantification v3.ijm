@@ -1,5 +1,5 @@
 //Macro for quantification of nuclear DAB staining (IHC) and normalization over nuclear staining (haematoxylin)
-
+//Author: Federico La Manna, 2020
 //Verify software requirements
 //
 //version required for checking plugin availability (Read and write excel)
