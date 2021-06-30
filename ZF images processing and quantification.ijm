@@ -1,3 +1,8 @@
+//Macro to quantify fluorescence signal (ROI-based quantification and foci segmentation) of labeled cells injected in zebrafish embryos.
+//Author: Federico La Manna (FLM), 2021
+//Update June 2021
+//Need to implement the code to check if "Read and Write Excel" plugin is installed, prompting to install it in case.
+
 requires("1.52p");
 //Workaround for Windows Creator Update that causes freezing of ImageJ when using "Import image sequence" command.
 //This disables the use of JFile chooser to import sequences
