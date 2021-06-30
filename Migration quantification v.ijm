@@ -2,7 +2,7 @@
 //Measures % area fraction and particles count
 //Output: filename list, thresholded images, binary images with counted objects overlay
 
-// FLM, 26.08.2020
+// Federico La Manna (FLM), 26.08.2020
 
 //version required for checking plugin availability (Read and write excel)
 requires("1.52o"); 
